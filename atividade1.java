@@ -21,6 +21,7 @@ public class atividade1 {
 
         System.out.println("obrigado");
         System.out.println("outra coisa");
+        System.out.println("Terceira coisa");
         input.close();
     }
 
