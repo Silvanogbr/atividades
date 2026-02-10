@@ -19,7 +19,7 @@ public class atividade1 {
 
         System.out.println("Sensor " + nSensor + " registrado com o valor " + vLeitura + ".");
 
-
+        System.out.println("obrigado");
         input.close();
     }
 
